@@ -33,14 +33,14 @@
         }
       }
     },
-    "/en-ca/": {
+    "/fr/": {
       "headers": {
         "all": {
-          "Store": "en_ca"
+          "Store": "fr"
         },
         "cs": {
           "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "en_ca",
+          "Magento-Store-View-Code": "fr",
           "Magento-Website-Code": "base"
         }
       }

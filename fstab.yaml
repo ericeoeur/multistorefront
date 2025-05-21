@@ -5,4 +5,4 @@ mountpoints:
 
 folders:
   /products/: "/products/default",
-  /en-ca/products/: "/en-ca/products/default"
+  /fr/products/: "/fr/products/default"
