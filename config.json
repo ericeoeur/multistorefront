@@ -34,7 +34,7 @@
       }
     },
     "/en/": {},
-    "/en_ca/": {
+    "/en-ca/": {
       "headers": {
         "all": {
           "Store": "default"
