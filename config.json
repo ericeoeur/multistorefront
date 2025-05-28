@@ -51,8 +51,8 @@
           "Store": "ca_en"
         },
         "cs": {
-          "Magento-Store-Code": "ca_en_store",
-          "Magento-Website-Code": "ca_en_website",
+          "Magento-Store-Code": "fr_store",
+          "Magento-Website-Code": "fr_website",
           "Magento-Store-View-Code": "ca_en"
         }
       }
